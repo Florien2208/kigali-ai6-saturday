@@ -1,0 +1,24 @@
+.ipynb_checkpoints
+.vscode
+.idea
+__pycache__
+
+[Ii]nstructor_*
+solutions
+
+ai6kigali_ci
+
+# data
+data
+EMNIST
+images
+
+# W6
+imagenette2-320
+
+# W7
+cifar10
+mnist
+nltk_data
+omw-1.4.zip
+wordnet.zip
